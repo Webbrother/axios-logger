@@ -7,7 +7,7 @@ jobs:
   test:
     docker:
       # specify the version you desire here
-      - image: circleci/node:8
+      - image: circleci/node:14
     steps:
       - checkout
 
@@ -27,4 +27,3 @@ workflows:
   test:
     jobs:
       - test
-      
