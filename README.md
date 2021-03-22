@@ -1,9 +1,9 @@
 # axios-logger-plus
 
-[![npm](https://img.shields.io/npm/v/axios-logger.svg)](https://www.npmjs.com/package/axios-logger-plus)
-[![npm](https://img.shields.io/npm/dm/axios-logger.svg)](https://www.npmjs.com/package/axios-logger-plus)
-[![GitHub license](https://img.shields.io/github/license/hg-pyun/axios-logger.svg)](https://github.com/webbrother/axios-logger-plus/blob/master/LICENSE)
-[![CircleCI](https://circleci.com/gh/hg-pyun/axios-logger/tree/master.svg?style=svg)](https://circleci.com/gh/webbrother/axios-logger-plus/tree/master)
+[![npm](https://img.shields.io/npm/v/axios-logger-plus.svg)](https://www.npmjs.com/package/axios-logger-plus)
+[![npm](https://img.shields.io/npm/dm/axios-logger-plus.svg)](https://www.npmjs.com/package/axios-logger-plus)
+[![GitHub license](https://img.shields.io/github/license/webbrother/axios-logger-plus.svg)](https://github.com/webbrother/axios-logger-plus/blob/master/LICENSE)
+[![CircleCI](https://circleci.com/gh/webbrother/axios-logger-plus/tree/master.svg?style=svg)](https://circleci.com/gh/webbrother/axios-logger-plus/tree/master)
 
 > Beautify Axios Logging Messages.
 

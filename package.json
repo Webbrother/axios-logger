@@ -17,15 +17,15 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/webbrother/axios-logger.git"
+        "url": "git+https://github.com/webbrother/axios-logger-plus.git"
     },
     "author": "Vitaliy Komarov",
     "email": "komarov.vitaliy@gmail.com",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/webbrother/axios-logger/issues"
+        "url": "https://github.com/webbrother/axios-logger-plus/issues"
     },
-    "homepage": "https://github.com/webbrother/axios-logger#readme",
+    "homepage": "https://github.com/webbrother/axios-logger-plus#readme",
     "devDependencies": {
         "@babel/cli": "^7.12.10",
         "@babel/core": "^7.12.10",
