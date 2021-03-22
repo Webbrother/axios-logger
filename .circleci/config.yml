@@ -21,7 +21,7 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
       # run tests!
-      - run: npm test
+      - run: mkdir -p test-results && npm test
       - store_test_results:
           path: test-results
 workflows:
